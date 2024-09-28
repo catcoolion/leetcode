@@ -4,8 +4,8 @@
 | --- | ---- | -------- | ---------- |
 | 206 | [Reverse Linked List](https://leetcode.cn/problems/reverse-linked-list) |  | Easy |
 | 202 | [Happy Number](https://leetcode.cn/problems/happy-number) |  | Easy |
-| 142 | [Linked List Cycle II](https://leetcode.cn/problems/linked-list-cycle-ii) |  | Medium |
-| 141 | [Linked List Cycle](https://leetcode.cn/problems/linked-list-cycle) |  | Easy |
+| 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | [JavaScript](algorithms/javascript/linkedListCycle/linkedListCycle.II.js) | Medium |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [JavaScript](algorithms/javascript/linkedListCycle/linkedListCycle.js) | Easy |
 | 92 | [Reverse Linked List II](https://leetcode.cn/problems/reverse-linked-list-ii) |  | Medium |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.cn/problems/remove-duplicates-from-sorted-list) | [JavaScript](algorithms/javascript/removeDuplicatesFromSortedList/removeDuplicatesFromSortedList.js) | Easy |
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii) |  | Medium |
