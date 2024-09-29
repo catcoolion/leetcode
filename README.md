@@ -3,7 +3,7 @@
 | #  | Title | Solution | Difficulty |
 | --- | ---- | -------- | ---------- |
 | 206 | [Reverse Linked List](https://leetcode.cn/problems/reverse-linked-list) |  | Easy |
-| 202 | [Happy Number](https://leetcode.cn/problems/happy-number) |  | Easy |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number) | [JavaScript](algorithms/javascript/happyNumber/happyNumber.js) | Easy |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | [JavaScript](algorithms/javascript/linkedListCycle/linkedListCycle.II.js) | Medium |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [JavaScript](algorithms/javascript/linkedListCycle/linkedListCycle.js) | Easy |
 | 92 | [Reverse Linked List II](https://leetcode.cn/problems/reverse-linked-list-ii) |  | Medium |
