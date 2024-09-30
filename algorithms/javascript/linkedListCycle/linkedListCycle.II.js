@@ -13,9 +13,11 @@
  * 
  *  If slow pointer moves n steps to the cycle begins, at this time, fast pointer moves 2n steps
  * 
- *  If cycle's length is x
+ *  If cycle's length is x + n, the distance between fast and slow pointer is x
  * 
- *  Fast pointer distance the cycle begins: x - n
+ *  Fast pointer moves 2x steps and slow pointer moves x steps before meeting
+ * 
+ *  where it meets: cycle's length - x, and distance cycle begins at n
  * 
  *  Fast pointer needs to be moved n steps to cycle begins
  * 
