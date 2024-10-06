@@ -31,6 +31,6 @@ const isHappy = n => {
     do {
         p = getNext(p)
         q = getNext(getNext(q))
-    } while (p && q && p !== q)
+    } while (p !== q && q !== 1)
     return q === 1
 }
