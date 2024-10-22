@@ -9,7 +9,7 @@
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) | [JavaScript](algorithms/javascript/reverseLinkedList/reverseLinkedList.II.js) | Medium |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [JavaScript](algorithms/javascript/removeDuplicatesFromSortedList/removeDuplicatesFromSortedList.js) | Easy |
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) | [JavaScript](algorithms/javascript/removeDuplicatesFromSortedList/removeDuplicatesFromSortedList.II.js) | Medium |
-| 61 | [Rotate List](https://leetcode.cn/problems/rotate-list) |  | Medium |
+| 61 | [Rotate List](https://leetcode.com/problems/rotate-list) | [JavaScript](algorithms/javascript/rotateList/rotateList.js) | Medium |
 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | [JavaScript](algorithms/javascript/reverseNodesInKGroup/reverseNodesInKGroup.js) | Hard |
 | 24 | [Swap Nodes in Pairs](https://leetcode.cn/problems/swap-nodes-in-pairs) |  | Medium |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [JavaScript](algorithms/javascript/removeNthNodeFromEndOfList/removeNthNodeFromEndOfList.js) | Medium |
