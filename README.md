@@ -6,6 +6,7 @@
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number) | [JavaScript](algorithms/javascript/happyNumber/happyNumber.js) | Easy |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | [JavaScript](algorithms/javascript/linkedListCycle/linkedListCycle.II.js) | Medium |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [JavaScript](algorithms/javascript/linkedListCycle/linkedListCycle.js) | Easy |
+| 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | [JavaScript](algorithms/javascript/copyListWithRandomPointer/copyListWithRandomPointer.js) | Medium |
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) | [JavaScript](algorithms/javascript/reverseLinkedList/reverseLinkedList.II.js) | Medium |
 | 86 | [Partition List](https://leetcode.com/problems/partition-list) | [JavaScript](algorithms/javascript/partitionList/partitionList.js) | Medium |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [JavaScript](algorithms/javascript/removeDuplicatesFromSortedList/removeDuplicatesFromSortedList.js) | Easy |
