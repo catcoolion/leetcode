@@ -2,6 +2,7 @@
 
 | #  | Title | Solution | Difficulty |
 | --- | ---- | -------- | ---------- |
+| Interview 03.04 | [Implement Queue Using Stacks Lcci](https://leetcode.cn/problems/implement-queue-using-stacks-lcci) | [JavaScript](algorithms/javascript/implementQueueUsingStacksLcci/implementQueueUsingStacksLcci.js) | Easy |
 | 1670 | [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue) | [JavaScript](algorithms/javascript/designFrontMiddleBackQueue/designFrontMiddleBackQueue.js) | Medium |
 | 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change) | [JavaScript](algorithms/javascript/lemonadeChange/lemonadeChange.js) | Easy |
 | 859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings) | [JavaScript](algorithms/javascript/buddyStrings/buddyStrings.js) | Easy |
