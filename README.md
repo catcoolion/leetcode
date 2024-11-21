@@ -6,6 +6,7 @@
 | 1670 | [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue) | [JavaScript](algorithms/javascript/designFrontMiddleBackQueue/designFrontMiddleBackQueue.js) | Medium |
 | 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change) | [JavaScript](algorithms/javascript/lemonadeChange/lemonadeChange.js) | Easy |
 | 859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings) | [JavaScript](algorithms/javascript/buddyStrings/buddyStrings.js) | Easy |
+| 682 | [Baseball Game](https://leetcode.com/problems/baseball-game) | [JavaScript](algorithms/javascript/baseballGame/baseballGame.js) | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [JavaScript](algorithms/javascript/reverseLinkedList/reverseLinkedList.js) | Easy |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number) | [JavaScript](algorithms/javascript/happyNumber/happyNumber.js) | Easy |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | [JavaScript](algorithms/javascript/linkedListCycle/linkedListCycle.II.js) | Medium |
