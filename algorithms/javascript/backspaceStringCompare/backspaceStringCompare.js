@@ -24,7 +24,8 @@ const backspaceCompare = (s, t) => {
           tStack = []
     transform(s, sStack)
     transform(t, tStack)
-    while (sStack.length || tStack.length) {
+    if (sStack.length !== tStack.length) return false
+    while (sStack.length) {
         if (sStack[sStack.length - 1] !== tStack[tStack.length - 1]) return false
         sStack.pop()
         tStack.pop()
