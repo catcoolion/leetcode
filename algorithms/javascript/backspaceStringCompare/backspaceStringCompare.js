@@ -9,22 +9,25 @@
  * 
 *******************************************************************/
 
+const transform = (s, stack) => {
+    for (let char of s) {
+        if (char === '#') {
+            stack.length && stack.pop()
+        } else {
+            stack.push(char)
+        }
+    }
+}
+
 const backspaceCompare = (s, t) => {
     const sStack = [],
           tStack = []
-    for (let char of s) {
-        if (char === '#') {
-            sStack.length && sStack.pop()
-        } else {
-            sStack.push(char)
-        }
+    transform(s, sStack)
+    transform(t, tStack)
+    while (sStack.length || tStack.length) {
+        if (sStack[sStack.length - 1] !== tStack[tStack.length - 1]) return false
+        sStack.pop()
+        tStack.pop()
     }
-    for (let char of t) {
-        if (char === '#') {
-            tStack.length && tStack.pop()
-        } else {
-            tStack.push(char)
-        }
-    }
-    return sStack.join() === tStack.join()
+    return true
 }
