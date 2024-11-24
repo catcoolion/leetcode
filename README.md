@@ -4,6 +4,7 @@
 | --- | ---- | -------- | ---------- |
 | Interview 03.04 | [Implement Queue Using Stacks Lcci](https://leetcode.cn/problems/implement-queue-using-stacks-lcci) | [JavaScript](algorithms/javascript/implementQueueUsingStacksLcci/implementQueueUsingStacksLcci.js) | Easy |
 | 1670 | [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue) | [JavaScript](algorithms/javascript/designFrontMiddleBackQueue/designFrontMiddleBackQueue.js) | Medium |
+| 946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences) | [JavaScript](algorithms/javascript/validateStackSequences/validateStackSequences.js) | Medium |
 | 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change) | [JavaScript](algorithms/javascript/lemonadeChange/lemonadeChange.js) | Easy |
 | 859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings) | [JavaScript](algorithms/javascript/buddyStrings/buddyStrings.js) | Easy |
 | 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | [JavaScript](algorithms/javascript/backspaceStringCompare/backspaceStringCompare.js) | Easy |
@@ -20,6 +21,7 @@
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list) | [JavaScript](algorithms/javascript/rotateList/rotateList.js) | Medium |
 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | [JavaScript](algorithms/javascript/reverseNodesInKGroup/reverseNodesInKGroup.js) | Hard |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | [JavaScript](algorithms/javascript/swapNodesInPairs/swapNodesInPairs.js) | Medium |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [JavaScript](algorithms/javascript/validParentheses/validParentheses.js) | Easy |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [JavaScript](algorithms/javascript/removeNthNodeFromEndOfList/removeNthNodeFromEndOfList.js) | Medium |
 
 
