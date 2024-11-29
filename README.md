@@ -4,6 +4,8 @@
 | --- | ---- | -------- | ---------- |
 | Interview 03.04 | [Implement Queue Using Stacks Lcci](https://leetcode.cn/problems/implement-queue-using-stacks-lcci) | [JavaScript](algorithms/javascript/implementQueueUsingStacksLcci/implementQueueUsingStacksLcci.js) | Easy |
 | 1670 | [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue) | [JavaScript](algorithms/javascript/designFrontMiddleBackQueue/designFrontMiddleBackQueue.js) | Medium |
+| 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses) | [JavaScript](algorithms/javascript/minimumRemoveToMakeValidParentheses/minimumRemoveToMakeValidParentheses.js) | Medium |
+| 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) | [JavaScript](algorithms/javascript/removeOutermostParentheses/removeOutermostParentheses.js) | Easy |
 | 946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences) | [JavaScript](algorithms/javascript/validateStackSequences/validateStackSequences.js) | Medium |
 | 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change) | [JavaScript](algorithms/javascript/lemonadeChange/lemonadeChange.js) | Easy |
 | 859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings) | [JavaScript](algorithms/javascript/buddyStrings/buddyStrings.js) | Easy |
