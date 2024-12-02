@@ -54,3 +54,31 @@ const minRemoveToMakeValid = s => {
     }
     return ret
 }
+
+
+const _minRemoveToMakeValid = s => {
+    let ans = ''
+    // from left to right, find `)`
+    for (let i = 0, cnt = 0; i < s.length; i ++) {
+        if (s[i] !== ')') {
+            cnt += (s[i] === '(')   // `(`, +1 => push stack
+        } else {
+            if (cnt === 0) continue // 0 stack empty
+            cnt -= 1                // `)` -1 => pop stack
+        }
+        ans += s[i]
+    }
+
+    s = ''
+    // from right to left, find `(`
+    for (let i = ans.length - 1, cnt = 0; i >= 0; i --) {
+        if (ans[i] !== '(') {
+            cnt += (ans[i] === ')') // `)`, +1 => push stack
+        } else {
+            if (cnt === 0) continue // 0 stack empty
+            cnt -= 1                // `(`, -1 => pop stack
+        }
+        s = ans[i] + s
+    }
+    return s
+}
