@@ -12,6 +12,7 @@
 | 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | [JavaScript](algorithms/javascript/backspaceStringCompare/backspaceStringCompare.js) | Easy |
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game) | [JavaScript](algorithms/javascript/baseballGame/baseballGame.js) | Easy |
 | 641 | [Design Circular Deque](https://leetcode.com/problems/design-circular-deque) | [JavaScript](algorithms/javascript/designCircularDeque/designCircularDeque.js) | Medium |
+| 636 | [Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions) | [JavaScript](algorithms/javascript/exclusiveTimeOfFunctions/exclusiveTimeOfFunctions.js) | Medium |
 | 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue) | [JavaScript](algorithms/javascript/designCircularQueue/designCircularQueue.js) | Medium |
 | 331 | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree) | [JavaScript](algorithms/javascript/VerifyPreorderSerializationOfABinaryTree/verifyPreorderSerializationOfABinaryTree.js) | Medium |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [JavaScript](algorithms/javascript/reverseLinkedList/reverseLinkedList.js) | Easy |
